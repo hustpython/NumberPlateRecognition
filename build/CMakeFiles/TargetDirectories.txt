@@ -1,0 +1,6 @@
+/home/mxq/Code/MasteringOpenCV/Chapter5_NumberPlateRecognition/build/CMakeFiles/rebuild_cache.dir
+/home/mxq/Code/MasteringOpenCV/Chapter5_NumberPlateRecognition/build/CMakeFiles/trainOCR.dir
+/home/mxq/Code/MasteringOpenCV/Chapter5_NumberPlateRecognition/build/CMakeFiles/ANPR.dir
+/home/mxq/Code/MasteringOpenCV/Chapter5_NumberPlateRecognition/build/CMakeFiles/edit_cache.dir
+/home/mxq/Code/MasteringOpenCV/Chapter5_NumberPlateRecognition/build/CMakeFiles/evalOCR.dir
+/home/mxq/Code/MasteringOpenCV/Chapter5_NumberPlateRecognition/build/CMakeFiles/trainSVM.dir
